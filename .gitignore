@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#folders
+/data
+
+#extra components files
+/src/components/App v1.js
+
