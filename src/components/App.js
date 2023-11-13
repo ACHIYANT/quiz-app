@@ -145,7 +145,6 @@ export default function App() {
               type="number"
               value={userChoosedQues}
               min={1}
-              defaultValue={10}
               max={numQuestions}
               onChange={(e) => {
                 if (e.target.value <= 0)
